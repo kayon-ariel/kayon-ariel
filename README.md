@@ -51,7 +51,6 @@ Hello! I'm Kayon Freitas, a developer passionate about technology and innovation
 
 ### Feel free to contact me 😄:
 <div>
-<a href="https://www.instagram.com/kayon.ariel/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:kayonariel@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/kayon-freitas-563064243" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://www.tabnews.com.br/kayon/conteudos/1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Tab_News-161b22?style=for-the-badge&logo=tab-news&logoColor=white" target="_blank"></a>
