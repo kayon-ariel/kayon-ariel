@@ -1,5 +1,5 @@
 ### Sobre Mim  
-Olá! Sou Kayon Freitas, desenvolvedor backend com experiência em PHP e Python. Estou sempre em busca de novos desafios e soluções inovadoras para web. Também sou o criador do projeto de código aberto **Python-SSG**, que simplifica a renderização de páginas estáticas dinâmicas. Além de programar, adoro compartilhar conhecimento e colaborar com a comunidade de desenvolvedores. Estou sempre aberto a novas ideias e colaborações!
+Olá! Sou Kayon Freitas, desenvolvedor backend com experiência principalmente em PHP e Python. Estou sempre em busca de novos desafios e soluções inovadoras para web. Também sou o criador do projeto de código aberto **Python-SSG**, que simplifica a renderização de páginas estáticas dinâmicas. Além de programar, adoro compartilhar conhecimento e colaborar com a comunidade de desenvolvedores. Estou sempre aberto a novas ideias e colaborações!
 
 ---
 
