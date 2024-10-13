@@ -4,6 +4,7 @@ Olá! Sou Kayon Freitas, desenvolvedor backend com experiência principalmente e
 ---
 
 ### Leia meus artigos:
+[![TabNews Badge](https://img.shields.io/badge/TabNews-161b22?style=for-the-badge&logo=tabnews&logoColor=white&logoWidth=20)](https://www.tabnews.com.br/kayon/conteudos/1)
 [![MediumBadge](https://img.shields.io/badge/medium-242424?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kayonariel)
 [![TabNews Badge](https://img.shields.io/badge/TabNews-161b22?style=for-the-badge&logo=tabnews&logoColor=white&logoWidth=20)](https://www.tabnews.com.br/kayon/conteudos/1)
 [![dev.to](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kayon_ariel)
